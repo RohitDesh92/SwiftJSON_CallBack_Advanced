@@ -1,0 +1,34 @@
+ [
+  {
+  "email": "rohitdesh92@gmail.com",
+  "fname": "Rohit",
+  "lname": "Deshmukh",
+  "mname": "Subhashrao",
+  "rating": 3,
+  "uid": 1
+  },
+  {
+  "email": "poojadesh92@gmail.com",
+  "fname": "Pooja",
+  "lname": "Deshmukh",
+  "mname": "Rohit",
+  "rating": 4,
+  "uid": 2
+  },
+  {
+  "email": "bhushan@gmail.com",
+  "fname": "Bhushan",
+  "lname": "Muthiyan",
+  "mname": "k",
+  "rating": 3,
+  "uid": 3
+  },
+  {
+  "email": "test@gmail.com",
+  "fname": "test",
+  "lname": "test4",
+  "mname": "k",
+  "rating": 4,
+  "uid": 4
+  }
+  ]
